@@ -1,0 +1,27 @@
+<svg width="519" height="352" viewBox="0 0 519 352" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="519" height="352" fill="white"/>
+<rect x="124.5" y="48.5" width="269" height="269" fill="white" stroke="#FBFBFB"/>
+<line x1="123.354" y1="43.6464" x2="390.354" y2="310.646" stroke="#FFFDFD"/>
+<line x1="389.356" y1="42.3516" x2="123.356" y2="311.352" stroke="#FFFBFB"/>
+<line x1="256.5" y1="42" x2="256.5" y2="311" stroke="#FFFAFA"/>
+<line x1="120" y1="177.5" x2="394" y2="177.5" stroke="black"/>
+<circle cx="255" cy="178" r="84.5" fill="white" stroke="#FEF8F8"/>
+<circle cx="255" cy="178" r="58" fill="#FCF6F6" stroke="black" stroke-width="14"/>
+<line x1="257" y1="51" x2="257" y2="92" stroke="black" stroke-width="14" stroke-linecap="round"/>
+<line x1="320" y1="177.5" x2="340" y2="177.5" stroke="#F9F0F0"/>
+<line x1="190" y1="177.5" x2="170" y2="177.5" stroke="#FAF1F1"/>
+<line x1="257.5" y1="100" x2="257.5" y2="113" stroke="#FDF7F7"/>
+<line x1="256.5" y1="263" x2="256.5" y2="249" stroke="#FAF9F9"/>
+<path d="M364.413 81L322 117.567" stroke="black" stroke-width="14" stroke-linecap="round"/>
+<path d="M394 178H343" stroke="black" stroke-width="14" stroke-linecap="round"/>
+<path d="M320.268 242.746L355.108 279.99" stroke="white" stroke-width="14" stroke-linecap="round"/>
+<line x1="254" y1="270" x2="254" y2="311" stroke="white" stroke-width="14" stroke-linecap="round"/>
+<path d="M116 178L167 178" stroke="black" stroke-width="14" stroke-linecap="round"/>
+<line x1="150.894" y1="84.3301" x2="183.907" y2="119.622" stroke="black" stroke-width="14" stroke-linecap="round"/>
+<path d="M120 33.5L124.118 44L120 37.5L120 33.5Z" fill="#D9D9D9"/>
+<line x1="195.118" y1="181.001" x2="314.118" y2="183.001" stroke="black" stroke-width="14"/>
+<ellipse cx="259" cy="224.5" rx="82" ry="34.5" fill="white"/>
+<rect x="124" y="188" width="96" height="101" rx="5" fill="#FDFDFD"/>
+<rect x="184" y="188" width="171" height="38" fill="white"/>
+<path d="M309.75 71C309.75 73.3472 311.653 75.25 314 75.25C316.347 75.25 318.25 73.3472 318.25 71H309.75ZM317.005 18.9948C315.345 17.3351 312.655 17.3351 310.995 18.9948L283.948 46.0416C282.288 47.7014 282.288 50.3923 283.948 52.052C285.608 53.7118 288.299 53.7118 289.958 52.052L314 28.0104L338.042 52.052C339.701 53.7118 342.392 53.7118 344.052 52.052C345.712 50.3923 345.712 47.7014 344.052 46.0416L317.005 18.9948ZM318.25 71V22H309.75V71H318.25Z" fill="black"/>
+</svg>

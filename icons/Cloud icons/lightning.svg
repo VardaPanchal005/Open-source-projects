@@ -1,0 +1,26 @@
+<svg width="519" height="352" viewBox="0 0 519 352" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="519" height="352" fill="white"/>
+<line x1="320" y1="177.5" x2="340" y2="177.5" stroke="#F9F0F0"/>
+<line x1="256.5" y1="263" x2="256.5" y2="249" stroke="#FAF9F9"/>
+<path d="M120 33.5L124.118 44L120 37.5L120 33.5Z" fill="#D9D9D9"/>
+<line x1="193.5" y1="190" x2="193.5" y2="189" stroke="black"/>
+<path d="M315 135C315 169.09 282.407 198 240.5 198C198.593 198 166 169.09 166 135C166 100.91 198.593 72 240.5 72C282.407 72 315 100.91 315 135Z" fill="white" stroke="black" stroke-width="10"/>
+<path d="M202 182.5C202 208.419 176.092 231 142 231C107.908 231 82 208.419 82 182.5C82 156.581 107.908 134 142 134C176.092 134 202 156.581 202 182.5Z" fill="white" stroke="black" stroke-width="10"/>
+<path d="M365 194C365 213.696 345.878 231 320.5 231C295.122 231 276 213.696 276 194C276 174.304 295.122 157 320.5 157C345.878 157 365 174.304 365 194Z" fill="white" stroke="black" stroke-width="10"/>
+<line x1="129" y1="230" x2="334" y2="230" stroke="black" stroke-width="8"/>
+<line x1="166" y1="175" x2="252" y2="175" stroke="white" stroke-width="50"/>
+<line x1="206" y1="167" x2="292" y2="167" stroke="white" stroke-width="80"/>
+<path d="M290 206L310.785 225.958H269.215L290 206Z" fill="#FFFDFD"/>
+<path d="M312 222L317.196 225.975H306.804L312 222Z" fill="white"/>
+<path d="M282.5 195L304.584 217.5H260.416L282.5 195Z" fill="white"/>
+<line x1="317" y1="225.5" x2="318" y2="225.5" stroke="white"/>
+<line x1="304" y1="234.5" x2="341" y2="234.5" stroke="white"/>
+<line x1="332" y1="235.5" x2="307" y2="235.5" stroke="white"/>
+<path d="M175.5 190L201.914 226H149.086L175.5 190Z" fill="white"/>
+<path d="M201 185L222.651 216.5H179.349L201 185Z" fill="white"/>
+<line x1="152" y1="225.5" x2="145" y2="225.5" stroke="#FFF9F9"/>
+<line x1="161" y1="234.5" x2="118" y2="234.5" stroke="white"/>
+<line x1="154" y1="235.5" x2="127" y2="235.5" stroke="white"/>
+<line x1="156" y1="235.5" x2="153" y2="235.5" stroke="white"/>
+<path d="M202 271L223 249H262.5L237 271L258.5 290L209.5 320.5L227 290L202 271Z" fill="black" stroke="black"/>
+</svg>
