@@ -1,10 +1,17 @@
-# Open-source-projects
-## Animated buttons
-This module contains 3 different buttons<br>
-1) Dark & light mode button
-2) Digital watch
-3) Quote generator
+# Open-Source Projects
 
-## Apple vision clone
+## Animated Buttons
 
-## Check-it
+This module includes three different buttons:
+
+1. Dark and light mode button
+2. Digital watch
+3. Quote generator
+
+## Apple Vision Clone
+
+This project is a clone of Apple's vision.
+
+## Check-It
+
+This website is designed to help you understand and implement blockchain concepts. You can use MetaMask authorization to keep track of your daily tasks and add or delete them as needed.
