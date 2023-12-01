@@ -15,3 +15,8 @@ This project is a clone of Apple's vision.
 ## Check-It
 
 This website is designed to help you understand and implement blockchain concepts. You can use MetaMask authorization to keep track of your daily tasks and add or delete them as needed.
+
+## E-commerce
+Simple E-commerce website where you can shop for different types women's wear.
+
+
