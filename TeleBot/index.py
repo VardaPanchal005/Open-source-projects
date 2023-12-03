@@ -5,7 +5,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=['start', 'hello'])
 def send_welcome(message):
-    bot.reply_to(message, "Howdy, how are you doing?")
+    bot.reply_to(message, "Hey, how are you doing?")
 
 @bot.message_handler(commands=['help'])
 def help(message):
@@ -18,7 +18,7 @@ def help(message):
     /Python  -> The first video from Python Playlist
     /SQL -> The first video from SQL Playlist
     /Java -> The first video from Java Playlist
-    /Skillup -> Free platform for certification by Simplilearn
+    /Skillup -> Free platform for certification 
     /contact -> contact information 
      """)
 
@@ -28,19 +28,19 @@ def content(message):
 
 @bot.message_handler(commands=['python'])
 def Python(message):
-    bot.reply_to(message,"tutorial link : https://youtu.be/Tm5u97I7OrM")
+    bot.reply_to(message,"tutorial link : https://www.youtube.com/watch?v=XKHEtdqhLK8")
 
 @bot.message_handler(commands=['sql'])
 def SQL(message):
-    bot.reply_to(message,"tutorial link : https://youtu.be/pFq1pgli0OQ")
+    bot.reply_to(message,"tutorial link : https://www.youtube.com/watch?v=7S_tz1z_5bA")
 
 @bot.message_handler(commands=['java'])  
 def Java(message):
-    bot.reply_to(message,"tutorial link : https://youtu.be/i6AZdFxTK9I")
+    bot.reply_to(message,"tutorial link : https://www.youtube.com/watch?v=BGTx91t8q50&t=28865s")
 
 @bot.message_handler(commands=['skillup'])   
 def Skillup(message):
-    bot.reply_to(message,"tutorial link : https://www.simplilearn.com/?&utm_source=google&utm_medium=cpc&utm_term=%2Bwww%20%2Bsimplilearn%20%2Bcom&utm_content=803350713-40537012023-467574577661&utm_device=c&utm_campaign=Search-Brand-Broad-IN-AllDevice-adgroup-brand-navigation&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMv5mA9EysZZ5NfhK65Cb5OU0Q0TVC4con6DQzHF502-dfgA7QQFCgQaAu5sEALw_wcB")
+    bot.reply_to(message,"tutorial link : https://varda-portfolio.vercel.app/")
 
 @bot.message_handler(commands=['contact'])
 def contact(message):
