@@ -21,5 +21,5 @@ Simple E-commerce website where you can shop for different types of women's wear
 
 
 ## Telebot
-
+Telebot is an AI-powered chatbot that helps users learn computer science basics with relevant materials and a user-friendly interface.
 
