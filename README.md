@@ -18,6 +18,9 @@ This website is designed to help you understand and implement blockchain concept
 
 ## E-commerce
 
+1) Cloud icons
+   a) 
+
 Simple E-commerce website where you can shop for different types of women's wear.
 
 ## Telebot
