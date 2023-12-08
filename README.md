@@ -27,5 +27,6 @@ Telebot is an AI-powered chatbot that helps users learn computer science basics 
 ## Icons
 
 1) Cloud icons
+2) Sun icons
 
    
