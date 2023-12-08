@@ -18,9 +18,6 @@ This website is designed to help you understand and implement blockchain concept
 
 ## E-commerce
 
-1) Cloud icons
-   a) 
-
 Simple E-commerce website where you can shop for different types of women's wear.
 
 ## Telebot
@@ -28,3 +25,6 @@ Simple E-commerce website where you can shop for different types of women's wear
 Telebot is an AI-powered chatbot that helps users learn computer science basics with relevant materials and a user-friendly interface.
 
 ## Icons
+
+1) Cloud icons
+   a) 
