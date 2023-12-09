@@ -29,7 +29,7 @@ Telebot is an AI-powered chatbot that helps users learn computer science basics 
 1) Cloud icons<br>
 -Haze
 <br>
-3) Sun icons
-4) Social media icons
+2) Sun icons
+3) Social media icons
 
    
